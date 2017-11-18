@@ -1,3 +1,21 @@
+---
+layout: post
+title:  "Test Blog Docker"
+image: "http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png"
+date:   2016-03-21
+excerpt: "Simple Jekyll theme for your blog by Alperen Bozkurt."
+project: true
+tag:
+- jekyll
+- JBlog
+- blog
+- about
+- theme
+---
+
+
+
+
 ### Docker
 Dillinger is very easy to install and deploy in a Docker container.
 
